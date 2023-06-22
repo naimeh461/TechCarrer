@@ -1,0 +1,110 @@
+[
+    {
+      "id": 187469238765132,
+      "company_logo": "assets/All Images/google-1-1 1.png",
+      "job_title": "Software Engineer",
+      "company_name": "GooGle LLC",
+      "jobType": "Onsite",
+      "location": "New York",
+      "time": "Full-time",
+      "salary": "100k - 120k",
+      "job_description": "Design and develop software applications using modern programming languages and frameworks.Collaborate with cross-functional teams to identify and solve complex problems.Write clean, efficient, and well-documented code.Test and debug software applications to ensure high quality and reliability.",
+      "job_responsibility": "Developing and maintaining software applications using modern programming languages and frameworks.Collaborating with cross-functional teams to identify and solve complex problems.Writing clean, efficient, and well-documented code.Testing and debugging software applications to ensure high quality and reliability.Staying up-to-date with emerging trends and technologies in software development.Contributing to the continuous improvement of our software development processes.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field...",
+      "experiences": "3+ years of experience in software development or related field...",
+      "contact_information": {
+        "phone": "(555) 123-4567",
+        "email": "google@job.com"
+      }
+    },
+    {
+        "id": 923746518347562,
+        "company_logo": "assets/All Images/netflix-4 1.png",
+        "job_title": "Technical Database Engineer",
+        "company_name": "Netflix",
+        "jobType": "Onsite",
+        "location": "San Francisco",
+        "time": "Full-time",
+        "salary": "80k - 100k",
+        "job_description": "The Technical Database Engineer will be responsible for designing, implementing, and maintaining database systems that support business applications. The role involves working closely with cross-functional teams to identify data requirements, designing data models and database schemas, writing complex SQL queries and stored procedures, monitoring and optimizing database performance, and ensuring data security, integrity, and availability. The ideal candidate should have a strong background in database architecture and administration, experience with cloud-based database platforms, and a deep understanding of database design principles and best practices.",
+        "job_responsibility": "Designing, implementing, and maintaining databases that support the applications and business processes of the organization.Ensuring data integrity, security, and availability.Identifying and resolving database issues, optimizing database performance, and implementing data backup and recovery procedures.",
+        "educational_requirements": "Bachelor's degree in Mathematics, Statistics, or related field...",
+        "experiences": "3+ years of experience in data analysis or related field...",
+      "contact_information": {
+        "phone": "(555) 123-4567",
+        "email": "netflix.data@job.com"
+        }
+    },
+    {
+      "id": 756238764931567,
+      "company_logo": "assets/All Images/tesla-9 1.png",
+      "job_title": "Graphic Designer",
+      "company_name": "JKL Corp.",
+      "jobType": "Onsite",
+      "location": "Chicago",
+      "time": "Full-time",
+      "salary": "60k - 80k",
+      "job_description": "We are seeking a talented Graphic Designer to join our creative team.The Graphic Designer will be responsible for creating visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers. The role involves developing the overall layout and production design for various applications such as advertisements, brochures, magazines, and corporate reports. The Graphic Designer will be required to work closely with the marketing and creative teams to translate marketing and branding strategies into creative designs, and deliver high-quality, engaging visual content that meets the needs of various marketing campaigns and initiatives.",
+      "job_responsibility": "Create visual designs for print and digital media.Creating visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers.Developing the overall layout and production design for various applications such as advertisements, brochures, magazines, and corporate reports.",
+      "educational_requirements": "Bachelor's degree in Graphic Design or related field...",
+      "experiences": "2+ years of experience in graphic design or related field...",
+      "contact_information":{
+        "phone": "(555) 123-4567",
+        "email": "careers@jklcorp.com"
+      }
+    },
+    {
+        "id": 913874619827653,
+        "company_logo": "assets/All Images/Group 10021.png",
+        "job_title": "Accountant",
+        "company_name": "airbnb",
+        "jobType": "Onsite",
+        "location": "Dallas",
+        "time": "Full-time",
+        "salary": "600k - 800k",
+        "job_description": "We are seeking an Accountant to join our finance team...",
+        "job_responsibility": "Prepare and analyze financial statements...",
+        "educational_requirements": "Bachelor's degree in Accounting or related field...",
+        "experiences": "2+ years of experience in accounting or related field...",
+        "contact_information": {
+        "phone": "(555) 123-4567",
+        "email": "airbnb@mnoinc.com"
+        }
+    },
+    {
+        "id": 325689176549872,
+        "company_logo": "assets/All Images/google-1-1 1.png",
+        "job_title": "Human Resources Manager",
+        "company_name": "GooGle LLC",
+        "jobType": "Onsite",
+        "location": "Los Angeles",
+        "time": "Full-time",
+        "salary": "90k - 110k",
+        "job_description": "We are seeking a Human Resources Manager to oversee our HR department...",
+        "job_responsibility": "Develop and implement HR policies and procedures...",
+        "educational_requirements": "Bachelor's or Master's degree in Human Resources or related field...",
+        "experiences": "5+ years of experience in HR management or related field...",
+        "contact_information": {
+        "phone": "(555) 123-4567",
+        "email": "google@job.com"
+        }
+    },
+    {
+        "id": 365874123598674,
+        "company_logo": "assets/All Images/netflix-4 1.png",
+        "job_title": "Marketing Coordinator",
+        "company_name": "NETFLIX",
+        "jobType": "Remote",
+        "location": "N/A",
+        "time": "Part-time",
+        "salary": "20k - 30k",
+        "job_description": "The Marketing Coordinator will be responsible for planning and executing marketing campaigns and initiatives. The role involves developing and implementing marketing strategies to meet business objectives, creating and managing content for social media, website, and other marketing channels, planning and coordinating events, promotions, and other marketing initiatives, analyzing and reporting on the effectiveness of marketing campaigns, collaborating with cross-functional teams to ensure brand consistency and alignment with business goals, and staying up-to-date with emerging trends and technologies in marketing and advertising.",
+        "job_responsibility": "As a Marketing Coordinator, your responsibilities will include developing and implementing marketing strategies to meet business objectives, creating and managing content for social media, website, and other marketing channels, planning and coordinating events, promotions, and other marketing initiatives, analyzing and reporting on the effectiveness of marketing campaigns, collaborating with cross-functional teams to ensure brand consistency and alignment with business goals, and staying up-to-date with emerging trends and technologies in marketing and advertising. You will be expected to work closely with other members of the marketing team, as well as other departments within the organization, to ensure the success of marketing campaigns and initiatives.",
+        "educational_requirements": "Associate's or Bachelor's degree in Marketing or related field...",
+        "experiences": "1+ years of experience in marketing or related field...",
+        "contact_information": {
+            "phone": "(555) 123-4567",
+            "email": "netflix@job.com"
+        }
+    }
+]

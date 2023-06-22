@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+  .btn{
+    @apply inline-flex items-center h-12 px-6 mb-3 font-medium text-white transition duration-200 rounded shadow-md  md:mb-0 bg-blue-400 hover:bg-blue-700
+  }
+  .p-color{
+    @apply bg-gradient-to-r from-[#7E90FE] to-[#9873FF] border-hidden
+  
+  }
+}
+.active{
+  @apply font-medium tracking-wide text-blue-700 transition-colors duration-200 hover:text-blue-400 ml-5
+}
+.color{
+  @apply text-transparent  bg-clip-text bg-gradient-to-r from-[#7E90FE] to-[#9873FF]
+}
+
+.default{
+  @apply font-medium tracking-wide text-transparent  bg-clip-text bg-gradient-to-r from-[#7E90FE] to-[#9873FF] transition-colors duration-200 hover:text-blue-400 ml-5
+}
